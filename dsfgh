@@ -1,0 +1,1798 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Transfer-Encoding": "chunked",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "request-id": "6259f475-ff80-428f-a564-38ba851cc67f",
+        "client-request-id": "6259f475-ff80-428f-a564-38ba851cc67f",
+        "x-ms-ags-diagnostic": "{\"ServerInfo\":{\"DataCenter\":\"West Europe\",\"Slice\":\"E\",\"Ring\":\"5\",\"ScaleUnit\":\"005\",\"RoleInstance\":\"AM4PEPF0002B5DF\"}}",
+        "OData-Version": "4.0",
+        "Timing-Allow-Origin": "*",
+        "x-ms-apihub-cached-response": "false",
+        "x-ms-apihub-obo": "false",
+        "Date": "Thu, 25 Jan 2024 11:12:43 GMT",
+        "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; IEEE754Compatible=false; charset=utf-8"
+    },
+    "body": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('c111c511-8368-4525-b559-3bcd6c918274')/schedule/shifts",
+        "@odata.count": 66,
+        "value": [
+            {
+                "@odata.etag": "\"f801c155-0000-0c00-0000-659055c70000\"",
+                "id": "SHFT_33ededcb-be9a-4d2a-8217-16435a38eaed",
+                "lastModifiedDateTime": "2023-12-30T17:39:19.627Z",
+                "schedulingGroupId": "TAG_88b1bcc3-4b6d-45c0-9c63-3acea72faab7",
+                "userId": "ffc040aa-5bce-4afd-aad7-6b78bb684078",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c255-0000-0c00-0000-659055c70000\"",
+                "id": "SHFT_96ca6de7-8882-4c2b-8dae-b07d9fad5b17",
+                "lastModifiedDateTime": "2023-12-30T17:39:19.627Z",
+                "schedulingGroupId": "TAG_88b1bcc3-4b6d-45c0-9c63-3acea72faab7",
+                "userId": "ffc040aa-5bce-4afd-aad7-6b78bb684078",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c355-0000-0c00-0000-659055c70000\"",
+                "id": "SHFT_a815424c-e2c2-404b-ac55-0d88a39b4e23",
+                "lastModifiedDateTime": "2023-12-30T17:39:19.627Z",
+                "schedulingGroupId": "TAG_88b1bcc3-4b6d-45c0-9c63-3acea72faab7",
+                "userId": "ffc040aa-5bce-4afd-aad7-6b78bb684078",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c455-0000-0c00-0000-659055c70000\"",
+                "id": "SHFT_40aaa910-281d-4d32-a315-0948edec7729",
+                "lastModifiedDateTime": "2023-12-30T17:39:19.627Z",
+                "schedulingGroupId": "TAG_88b1bcc3-4b6d-45c0-9c63-3acea72faab7",
+                "userId": "ffc040aa-5bce-4afd-aad7-6b78bb684078",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c555-0000-0c00-0000-659055c70000\"",
+                "id": "SHFT_2dee96aa-4418-4f7e-b128-8dab1ab4d5d0",
+                "lastModifiedDateTime": "2023-12-30T17:39:19.627Z",
+                "schedulingGroupId": "TAG_88b1bcc3-4b6d-45c0-9c63-3acea72faab7",
+                "userId": "ffc040aa-5bce-4afd-aad7-6b78bb684078",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c655-0000-0c00-0000-659055c70000\"",
+                "id": "SHFT_afbb6dd1-a5b6-496a-aee0-53f4c0175b96",
+                "lastModifiedDateTime": "2023-12-30T17:39:19.627Z",
+                "schedulingGroupId": "TAG_88b1bcc3-4b6d-45c0-9c63-3acea72faab7",
+                "userId": "ffc040aa-5bce-4afd-aad7-6b78bb684078",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801bf56-0000-0c00-0000-659055d10000\"",
+                "id": "SHFT_ea15f678-1af9-4b8e-996a-faf46612023b",
+                "lastModifiedDateTime": "2023-12-30T17:39:29.391Z",
+                "schedulingGroupId": "TAG_4786cc34-6afb-4b57-884d-7f2680215581",
+                "userId": "6f0209d3-086e-47ca-8c93-c077901bd99e",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c056-0000-0c00-0000-659055d10000\"",
+                "id": "SHFT_19e04a16-7f48-4ab6-b383-f9d05dfd39db",
+                "lastModifiedDateTime": "2023-12-30T17:39:29.391Z",
+                "schedulingGroupId": "TAG_4786cc34-6afb-4b57-884d-7f2680215581",
+                "userId": "6f0209d3-086e-47ca-8c93-c077901bd99e",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c156-0000-0c00-0000-659055d10000\"",
+                "id": "SHFT_87951c13-01b0-43e0-a166-de67327fd8be",
+                "lastModifiedDateTime": "2023-12-30T17:39:29.391Z",
+                "schedulingGroupId": "TAG_4786cc34-6afb-4b57-884d-7f2680215581",
+                "userId": "6f0209d3-086e-47ca-8c93-c077901bd99e",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c256-0000-0c00-0000-659055d10000\"",
+                "id": "SHFT_817d184b-2d21-4edb-b768-a5632fbe843e",
+                "lastModifiedDateTime": "2023-12-30T17:39:29.391Z",
+                "schedulingGroupId": "TAG_4786cc34-6afb-4b57-884d-7f2680215581",
+                "userId": "6f0209d3-086e-47ca-8c93-c077901bd99e",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c356-0000-0c00-0000-659055d10000\"",
+                "id": "SHFT_342870eb-9404-4215-85fb-0e521ceedaa6",
+                "lastModifiedDateTime": "2023-12-30T17:39:29.391Z",
+                "schedulingGroupId": "TAG_4786cc34-6afb-4b57-884d-7f2680215581",
+                "userId": "6f0209d3-086e-47ca-8c93-c077901bd99e",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801c456-0000-0c00-0000-659055d10000\"",
+                "id": "SHFT_eeafa6eb-f766-423e-8431-75e70ff25a37",
+                "lastModifiedDateTime": "2023-12-30T17:39:29.391Z",
+                "schedulingGroupId": "TAG_4786cc34-6afb-4b57-884d-7f2680215581",
+                "userId": "6f0209d3-086e-47ca-8c93-c077901bd99e",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8010357-0000-0c00-0000-659055d40000\"",
+                "id": "SHFT_77f8a3f1-59f9-478a-8cae-3b3a02b972ac",
+                "lastModifiedDateTime": "2023-12-30T17:39:32.623Z",
+                "schedulingGroupId": "TAG_1be2d01e-69f6-40c3-bba0-05a9d0ed7300",
+                "userId": "67883908-2dfe-41b8-a4f3-5c8061e50bb9",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8010457-0000-0c00-0000-659055d40000\"",
+                "id": "SHFT_58a88af8-4430-461c-933e-54cc3c134767",
+                "lastModifiedDateTime": "2023-12-30T17:39:32.623Z",
+                "schedulingGroupId": "TAG_1be2d01e-69f6-40c3-bba0-05a9d0ed7300",
+                "userId": "67883908-2dfe-41b8-a4f3-5c8061e50bb9",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8010557-0000-0c00-0000-659055d40000\"",
+                "id": "SHFT_b33d93d2-6547-467c-b5da-6bc220dea203",
+                "lastModifiedDateTime": "2023-12-30T17:39:32.623Z",
+                "schedulingGroupId": "TAG_1be2d01e-69f6-40c3-bba0-05a9d0ed7300",
+                "userId": "67883908-2dfe-41b8-a4f3-5c8061e50bb9",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8010657-0000-0c00-0000-659055d40000\"",
+                "id": "SHFT_6c86d23a-5e4d-4878-b730-028b25aaf5ee",
+                "lastModifiedDateTime": "2023-12-30T17:39:32.623Z",
+                "schedulingGroupId": "TAG_1be2d01e-69f6-40c3-bba0-05a9d0ed7300",
+                "userId": "67883908-2dfe-41b8-a4f3-5c8061e50bb9",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8010757-0000-0c00-0000-659055d40000\"",
+                "id": "SHFT_439788d8-f20a-464b-910b-7641c91eea8e",
+                "lastModifiedDateTime": "2023-12-30T17:39:32.623Z",
+                "schedulingGroupId": "TAG_1be2d01e-69f6-40c3-bba0-05a9d0ed7300",
+                "userId": "67883908-2dfe-41b8-a4f3-5c8061e50bb9",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8010857-0000-0c00-0000-659055d40000\"",
+                "id": "SHFT_e811a608-9799-45c6-b478-2c79cccbf327",
+                "lastModifiedDateTime": "2023-12-30T17:39:32.623Z",
+                "schedulingGroupId": "TAG_1be2d01e-69f6-40c3-bba0-05a9d0ed7300",
+                "userId": "67883908-2dfe-41b8-a4f3-5c8061e50bb9",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "white",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8013d58-0000-0c00-0000-659055e20000\"",
+                "id": "SHFT_dd368c1f-e002-4c5c-b050-c8f4114496d0",
+                "lastModifiedDateTime": "2023-12-30T17:39:46.57Z",
+                "schedulingGroupId": "TAG_5867469e-2ad1-4bdd-a4cc-4677bf127c2e",
+                "userId": "0450a9b0-699a-4386-9916-92763068929a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "purple",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8013e58-0000-0c00-0000-659055e20000\"",
+                "id": "SHFT_d4d7207b-9d19-493b-8374-8352b771f48e",
+                "lastModifiedDateTime": "2023-12-30T17:39:46.57Z",
+                "schedulingGroupId": "TAG_5867469e-2ad1-4bdd-a4cc-4677bf127c2e",
+                "userId": "0450a9b0-699a-4386-9916-92763068929a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "purple",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8013f58-0000-0c00-0000-659055e20000\"",
+                "id": "SHFT_47e73fd0-60da-4a86-9c9c-50c3c87ac342",
+                "lastModifiedDateTime": "2023-12-30T17:39:46.57Z",
+                "schedulingGroupId": "TAG_5867469e-2ad1-4bdd-a4cc-4677bf127c2e",
+                "userId": "0450a9b0-699a-4386-9916-92763068929a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "purple",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8014058-0000-0c00-0000-659055e20000\"",
+                "id": "SHFT_00cff554-798e-4c80-8c0e-f540731e3d82",
+                "lastModifiedDateTime": "2023-12-30T17:39:46.57Z",
+                "schedulingGroupId": "TAG_5867469e-2ad1-4bdd-a4cc-4677bf127c2e",
+                "userId": "0450a9b0-699a-4386-9916-92763068929a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "purple",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8014158-0000-0c00-0000-659055e20000\"",
+                "id": "SHFT_998e4ccc-5cb7-4861-a299-1fd90d791480",
+                "lastModifiedDateTime": "2023-12-30T17:39:46.57Z",
+                "schedulingGroupId": "TAG_5867469e-2ad1-4bdd-a4cc-4677bf127c2e",
+                "userId": "0450a9b0-699a-4386-9916-92763068929a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "purple",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8014258-0000-0c00-0000-659055e20000\"",
+                "id": "SHFT_27854404-721c-4cdc-baec-3ca9379e1016",
+                "lastModifiedDateTime": "2023-12-30T17:39:46.57Z",
+                "schedulingGroupId": "TAG_5867469e-2ad1-4bdd-a4cc-4677bf127c2e",
+                "userId": "0450a9b0-699a-4386-9916-92763068929a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "purple",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801b259-0000-0c00-0000-659055f10000\"",
+                "id": "SHFT_3996ec2a-22e4-4cca-96f2-4fc41fc549f6",
+                "lastModifiedDateTime": "2023-12-30T17:40:00.782Z",
+                "schedulingGroupId": "TAG_c10aecf2-e72c-46d8-8536-8e281ef15b33",
+                "userId": "a7022694-ef84-40c4-af94-571ed7005161",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801b359-0000-0c00-0000-659055f10000\"",
+                "id": "SHFT_38021d50-29be-4eeb-9dcb-0ff689e56c5f",
+                "lastModifiedDateTime": "2023-12-30T17:40:00.782Z",
+                "schedulingGroupId": "TAG_c10aecf2-e72c-46d8-8536-8e281ef15b33",
+                "userId": "a7022694-ef84-40c4-af94-571ed7005161",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801b459-0000-0c00-0000-659055f10000\"",
+                "id": "SHFT_16fd8745-f656-41e4-8197-52232b95c02e",
+                "lastModifiedDateTime": "2023-12-30T17:40:00.782Z",
+                "schedulingGroupId": "TAG_c10aecf2-e72c-46d8-8536-8e281ef15b33",
+                "userId": "a7022694-ef84-40c4-af94-571ed7005161",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801b559-0000-0c00-0000-659055f10000\"",
+                "id": "SHFT_22a82ad7-1ffa-49e2-bf07-9f93061057f5",
+                "lastModifiedDateTime": "2023-12-30T17:40:00.782Z",
+                "schedulingGroupId": "TAG_c10aecf2-e72c-46d8-8536-8e281ef15b33",
+                "userId": "a7022694-ef84-40c4-af94-571ed7005161",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801b659-0000-0c00-0000-659055f10000\"",
+                "id": "SHFT_42704f13-a108-43d2-bfd2-339dfa34723b",
+                "lastModifiedDateTime": "2023-12-30T17:40:00.782Z",
+                "schedulingGroupId": "TAG_c10aecf2-e72c-46d8-8536-8e281ef15b33",
+                "userId": "a7022694-ef84-40c4-af94-571ed7005161",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801b759-0000-0c00-0000-659055f10000\"",
+                "id": "SHFT_2050ef56-0889-4763-87e5-407f3bdcbb65",
+                "lastModifiedDateTime": "2023-12-30T17:40:00.782Z",
+                "schedulingGroupId": "TAG_c10aecf2-e72c-46d8-8536-8e281ef15b33",
+                "userId": "a7022694-ef84-40c4-af94-571ed7005161",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8018c5a-0000-0c00-0000-659055fe0000\"",
+                "id": "SHFT_16fac9cb-e518-43ae-93f4-b73115e5e6bd",
+                "lastModifiedDateTime": "2023-12-30T17:40:14.032Z",
+                "schedulingGroupId": "TAG_a8bdacdd-ecad-4c97-b333-5f5c773da2cc",
+                "userId": "e51a471d-acf7-49a2-8935-dc96fb6e2219",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8018d5a-0000-0c00-0000-659055fe0000\"",
+                "id": "SHFT_c4f789d1-1ee4-4941-b088-eecb25a441e9",
+                "lastModifiedDateTime": "2023-12-30T17:40:14.032Z",
+                "schedulingGroupId": "TAG_a8bdacdd-ecad-4c97-b333-5f5c773da2cc",
+                "userId": "e51a471d-acf7-49a2-8935-dc96fb6e2219",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8018e5a-0000-0c00-0000-659055fe0000\"",
+                "id": "SHFT_b07d3e31-fa3a-4eac-8387-5fb3877f62d7",
+                "lastModifiedDateTime": "2023-12-30T17:40:14.032Z",
+                "schedulingGroupId": "TAG_a8bdacdd-ecad-4c97-b333-5f5c773da2cc",
+                "userId": "e51a471d-acf7-49a2-8935-dc96fb6e2219",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8018f5a-0000-0c00-0000-659055fe0000\"",
+                "id": "SHFT_fc1f5418-2cf2-41fa-9de4-ce832f19b4f9",
+                "lastModifiedDateTime": "2023-12-30T17:40:14.032Z",
+                "schedulingGroupId": "TAG_a8bdacdd-ecad-4c97-b333-5f5c773da2cc",
+                "userId": "e51a471d-acf7-49a2-8935-dc96fb6e2219",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801905a-0000-0c00-0000-659055fe0000\"",
+                "id": "SHFT_d9d7c110-3a30-4137-9833-8c7968202d5c",
+                "lastModifiedDateTime": "2023-12-30T17:40:14.032Z",
+                "schedulingGroupId": "TAG_a8bdacdd-ecad-4c97-b333-5f5c773da2cc",
+                "userId": "e51a471d-acf7-49a2-8935-dc96fb6e2219",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801915a-0000-0c00-0000-659055fe0000\"",
+                "id": "SHFT_35ec8707-8689-40c2-8c04-5d70437c3813",
+                "lastModifiedDateTime": "2023-12-30T17:40:14.032Z",
+                "schedulingGroupId": "TAG_a8bdacdd-ecad-4c97-b333-5f5c773da2cc",
+                "userId": "e51a471d-acf7-49a2-8935-dc96fb6e2219",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "darkPink",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801135c-0000-0c00-0000-659056100000\"",
+                "id": "SHFT_b9ee0ce6-177b-4389-98ac-29055077c45a",
+                "lastModifiedDateTime": "2023-12-30T17:40:31.766Z",
+                "schedulingGroupId": "TAG_cb7ff2aa-ade5-426a-849a-3d753415c709",
+                "userId": "f2a9461e-44fa-4adb-bdf1-8ad0d2eb274a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801145c-0000-0c00-0000-659056100000\"",
+                "id": "SHFT_277d0752-c5de-46b9-8659-e11f8e87a854",
+                "lastModifiedDateTime": "2023-12-30T17:40:31.766Z",
+                "schedulingGroupId": "TAG_cb7ff2aa-ade5-426a-849a-3d753415c709",
+                "userId": "f2a9461e-44fa-4adb-bdf1-8ad0d2eb274a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801155c-0000-0c00-0000-659056100000\"",
+                "id": "SHFT_6500fec4-b1d6-4455-baa6-a4b3f154a4ef",
+                "lastModifiedDateTime": "2023-12-30T17:40:31.766Z",
+                "schedulingGroupId": "TAG_cb7ff2aa-ade5-426a-849a-3d753415c709",
+                "userId": "f2a9461e-44fa-4adb-bdf1-8ad0d2eb274a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801165c-0000-0c00-0000-659056100000\"",
+                "id": "SHFT_e7a0cb32-c401-49c0-b2d5-b11171a7b384",
+                "lastModifiedDateTime": "2023-12-30T17:40:31.766Z",
+                "schedulingGroupId": "TAG_cb7ff2aa-ade5-426a-849a-3d753415c709",
+                "userId": "f2a9461e-44fa-4adb-bdf1-8ad0d2eb274a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801175c-0000-0c00-0000-659056100000\"",
+                "id": "SHFT_b16a50fd-d3a2-47c2-a541-699a39227270",
+                "lastModifiedDateTime": "2023-12-30T17:40:31.766Z",
+                "schedulingGroupId": "TAG_cb7ff2aa-ade5-426a-849a-3d753415c709",
+                "userId": "f2a9461e-44fa-4adb-bdf1-8ad0d2eb274a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801185c-0000-0c00-0000-659056100000\"",
+                "id": "SHFT_d4f772bb-4cd2-47b0-b9e4-cdf47b5dd88c",
+                "lastModifiedDateTime": "2023-12-30T17:40:31.766Z",
+                "schedulingGroupId": "TAG_cb7ff2aa-ade5-426a-849a-3d753415c709",
+                "userId": "f2a9461e-44fa-4adb-bdf1-8ad0d2eb274a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8015d5e-0000-0c00-0000-659056270000\"",
+                "id": "SHFT_9b1de805-6cf3-4e89-812d-5f69a5a9e4bc",
+                "lastModifiedDateTime": "2023-12-30T17:40:55.26Z",
+                "schedulingGroupId": "TAG_7c1a205c-1f72-4c66-82ac-15729caeb5d8",
+                "userId": "1737f949-0e3d-437d-9d08-f51110524bdd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8015e5e-0000-0c00-0000-659056270000\"",
+                "id": "SHFT_4d7c9d32-aa0a-4f7e-891b-1ceecccd137e",
+                "lastModifiedDateTime": "2023-12-30T17:40:55.26Z",
+                "schedulingGroupId": "TAG_7c1a205c-1f72-4c66-82ac-15729caeb5d8",
+                "userId": "1737f949-0e3d-437d-9d08-f51110524bdd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f8015f5e-0000-0c00-0000-659056270000\"",
+                "id": "SHFT_a58554e7-ad33-43c1-af73-24975f964a95",
+                "lastModifiedDateTime": "2023-12-30T17:40:55.26Z",
+                "schedulingGroupId": "TAG_7c1a205c-1f72-4c66-82ac-15729caeb5d8",
+                "userId": "1737f949-0e3d-437d-9d08-f51110524bdd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801605e-0000-0c00-0000-659056270000\"",
+                "id": "SHFT_029c7990-38ec-4fa0-9d7a-2c8376292312",
+                "lastModifiedDateTime": "2023-12-30T17:40:55.26Z",
+                "schedulingGroupId": "TAG_7c1a205c-1f72-4c66-82ac-15729caeb5d8",
+                "userId": "1737f949-0e3d-437d-9d08-f51110524bdd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801615e-0000-0c00-0000-659056270000\"",
+                "id": "SHFT_c47276ac-68ba-4370-8b91-94cecd30a6e9",
+                "lastModifiedDateTime": "2023-12-30T17:40:55.26Z",
+                "schedulingGroupId": "TAG_7c1a205c-1f72-4c66-82ac-15729caeb5d8",
+                "userId": "1737f949-0e3d-437d-9d08-f51110524bdd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801625e-0000-0c00-0000-659056270000\"",
+                "id": "SHFT_4353e4e0-9f05-40dc-94df-b98676ed4d37",
+                "lastModifiedDateTime": "2023-12-30T17:40:55.26Z",
+                "schedulingGroupId": "TAG_7c1a205c-1f72-4c66-82ac-15729caeb5d8",
+                "userId": "1737f949-0e3d-437d-9d08-f51110524bdd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801a864-0000-0c00-0000-659056630000\"",
+                "id": "SHFT_8bce04db-b0ac-4af5-a6dc-4bfa64d908f3",
+                "lastModifiedDateTime": "2023-12-30T17:41:55.648Z",
+                "schedulingGroupId": "TAG_07823dcd-b0f9-4f84-a306-60c4041d5a9e",
+                "userId": "48b753ff-2d6a-41fc-b85a-a88dd54b87a0",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801a964-0000-0c00-0000-659056630000\"",
+                "id": "SHFT_a830ab76-92ce-4232-83ef-d9ddecf004d2",
+                "lastModifiedDateTime": "2023-12-30T17:41:55.648Z",
+                "schedulingGroupId": "TAG_07823dcd-b0f9-4f84-a306-60c4041d5a9e",
+                "userId": "48b753ff-2d6a-41fc-b85a-a88dd54b87a0",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801aa64-0000-0c00-0000-659056630000\"",
+                "id": "SHFT_7ec4af3d-8a35-4333-be92-c3b3706967c3",
+                "lastModifiedDateTime": "2023-12-30T17:41:55.648Z",
+                "schedulingGroupId": "TAG_07823dcd-b0f9-4f84-a306-60c4041d5a9e",
+                "userId": "48b753ff-2d6a-41fc-b85a-a88dd54b87a0",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"f801ab64-0000-0c00-0000-659056630000\"",
+                "id": "SHFT_b26d024d-c80d-4c5b-9ab7-d4e1d7511b82",
+                "lastModifiedDateTime": "2023-12-30T17:41:55.648Z",
+                "schedulingGroupId": "TAG_07823dcd-b0f9-4f84-a306-60c4041d5a9e",
+                "userId": "48b753ff-2d6a-41fc-b85a-a88dd54b87a0",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"0e055f8e-0000-0c00-0000-65a4f8960000\"",
+                "id": "SHFT_e8e5422d-118d-427f-948e-22bbb8a32e87",
+                "lastModifiedDateTime": "2024-01-15T09:19:17.628Z",
+                "schedulingGroupId": "TAG_5a8633ee-8771-472b-b8a0-54fafb55cd40",
+                "userId": "884a7236-8ec2-4ad7-9bd3-e074a7ad0ddd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"0e055c8e-0000-0c00-0000-65a4f8960000\"",
+                "id": "SHFT_6af2c9c6-ffd5-4969-8a20-1490eb19b551",
+                "lastModifiedDateTime": "2024-01-15T09:19:17.628Z",
+                "schedulingGroupId": "TAG_5a8633ee-8771-472b-b8a0-54fafb55cd40",
+                "userId": "884a7236-8ec2-4ad7-9bd3-e074a7ad0ddd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"0e05608e-0000-0c00-0000-65a4f8960000\"",
+                "id": "SHFT_ced6e768-bc6b-490b-8e9c-d028f7db9da1",
+                "lastModifiedDateTime": "2024-01-15T09:19:17.628Z",
+                "schedulingGroupId": "TAG_5a8633ee-8771-472b-b8a0-54fafb55cd40",
+                "userId": "884a7236-8ec2-4ad7-9bd3-e074a7ad0ddd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"0e05618e-0000-0c00-0000-65a4f8960000\"",
+                "id": "SHFT_afabbb6e-e638-4b60-a17a-d7933cc4e7c9",
+                "lastModifiedDateTime": "2024-01-15T09:19:17.628Z",
+                "schedulingGroupId": "TAG_5a8633ee-8771-472b-b8a0-54fafb55cd40",
+                "userId": "884a7236-8ec2-4ad7-9bd3-e074a7ad0ddd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"0e05638e-0000-0c00-0000-65a4f8960000\"",
+                "id": "SHFT_4353f713-e10a-407b-9cce-bce243a95408",
+                "lastModifiedDateTime": "2024-01-15T09:19:17.628Z",
+                "schedulingGroupId": "TAG_5a8633ee-8771-472b-b8a0-54fafb55cd40",
+                "userId": "884a7236-8ec2-4ad7-9bd3-e074a7ad0ddd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"0e05628e-0000-0c00-0000-65a4f8960000\"",
+                "id": "SHFT_9a59e4cd-089a-4b1d-9495-efd3e9cc6ea9",
+                "lastModifiedDateTime": "2024-01-15T09:19:17.628Z",
+                "schedulingGroupId": "TAG_5a8633ee-8771-472b-b8a0-54fafb55cd40",
+                "userId": "884a7236-8ec2-4ad7-9bd3-e074a7ad0ddd",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"8d02176c-0000-0c00-0000-65ae377b0000\"",
+                "id": "SHFT_7a8d0eb5-399e-433c-9e05-86964ff02104",
+                "lastModifiedDateTime": "2024-01-22T09:38:02.751Z",
+                "schedulingGroupId": "TAG_30e8c5c5-fc26-4696-b34d-74dcccc0ed98",
+                "userId": "6288675d-831f-4220-a19b-2513311c1787",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "darkYellow",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"8d02186c-0000-0c00-0000-65ae377b0000\"",
+                "id": "SHFT_04745585-5b7b-4ac6-a8f7-94c16f38d202",
+                "lastModifiedDateTime": "2024-01-22T09:38:02.751Z",
+                "schedulingGroupId": "TAG_30e8c5c5-fc26-4696-b34d-74dcccc0ed98",
+                "userId": "6288675d-831f-4220-a19b-2513311c1787",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "darkYellow",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"8d02196c-0000-0c00-0000-65ae377b0000\"",
+                "id": "SHFT_90b3e78f-ac83-453f-a167-5507193f8be9",
+                "lastModifiedDateTime": "2024-01-22T09:38:02.751Z",
+                "schedulingGroupId": "TAG_30e8c5c5-fc26-4696-b34d-74dcccc0ed98",
+                "userId": "6288675d-831f-4220-a19b-2513311c1787",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "darkYellow",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"8d021a6c-0000-0c00-0000-65ae377b0000\"",
+                "id": "SHFT_119c935b-a13f-4e6f-b611-799c0fbfbbe4",
+                "lastModifiedDateTime": "2024-01-22T09:38:02.751Z",
+                "schedulingGroupId": "TAG_30e8c5c5-fc26-4696-b34d-74dcccc0ed98",
+                "userId": "6288675d-831f-4220-a19b-2513311c1787",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "darkYellow",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"8d021b6c-0000-0c00-0000-65ae377b0000\"",
+                "id": "SHFT_5edccffc-dcb4-4fcb-bb33-d83d8b62829f",
+                "lastModifiedDateTime": "2024-01-22T09:38:02.751Z",
+                "schedulingGroupId": "TAG_30e8c5c5-fc26-4696-b34d-74dcccc0ed98",
+                "userId": "6288675d-831f-4220-a19b-2513311c1787",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "darkYellow",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"8d021c6c-0000-0c00-0000-65ae377b0000\"",
+                "id": "SHFT_730892ab-dfb2-4c6b-baf9-66e4afca1a6a",
+                "lastModifiedDateTime": "2024-01-22T09:38:02.751Z",
+                "schedulingGroupId": "TAG_30e8c5c5-fc26-4696-b34d-74dcccc0ed98",
+                "userId": "6288675d-831f-4220-a19b-2513311c1787",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "darkYellow",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"94026958-0000-0c00-0000-65b0fa110000\"",
+                "id": "SHFT_151b0bae-66fc-469c-985c-a91b1f5215b0",
+                "lastModifiedDateTime": "2024-01-24T11:52:48.986Z",
+                "schedulingGroupId": "TAG_07823dcd-b0f9-4f84-a306-60c4041d5a9e",
+                "userId": "48b753ff-2d6a-41fc-b85a-a88dd54b87a0",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"94026a58-0000-0c00-0000-65b0fa110000\"",
+                "id": "SHFT_3d872e49-35d5-4ac5-ba60-76178257b907",
+                "lastModifiedDateTime": "2024-01-24T11:52:48.986Z",
+                "schedulingGroupId": "TAG_07823dcd-b0f9-4f84-a306-60c4041d5a9e",
+                "userId": "48b753ff-2d6a-41fc-b85a-a88dd54b87a0",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "7fdd3b4b-e8a7-4511-bcea-7e67b977e416",
+                        "displayName": "Vinicius Borges",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "displayName": "ON DUTY",
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            }
+        ]
+    }
+}
+
+
+
+
+
+
+{
+    "statusCode": 200,
+    "headers": {
+        "Transfer-Encoding": "chunked",
+        "Vary": "Accept-Encoding",
+        "Strict-Transport-Security": "max-age=31536000",
+        "request-id": "851352d2-5cf8-4c95-8892-952194f320a8",
+        "client-request-id": "851352d2-5cf8-4c95-8892-952194f320a8",
+        "x-ms-ags-diagnostic": "{\"ServerInfo\":{\"DataCenter\":\"West US\",\"Slice\":\"E\",\"Ring\":\"4\",\"ScaleUnit\":\"004\",\"RoleInstance\":\"BY3PEPF00028DDB\"}}",
+        "OData-Version": "4.0",
+        "Timing-Allow-Origin": "*",
+        "x-ms-apihub-cached-response": "false",
+        "x-ms-apihub-obo": "false",
+        "Date": "Fri, 26 Jan 2024 09:01:43 GMT",
+        "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; IEEE754Compatible=false; charset=utf-8"
+    },
+    "body": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#teams('886e768c-65c7-4d08-8c96-ce1b46af8bc3')/schedule/shifts",
+        "@odata.count": 7,
+        "value": [
+            {
+                "@odata.etag": "\"74006c06-0000-0400-0000-65af77960000\"",
+                "id": "SHFT_619e830f-c9fe-4750-a39f-33fd43f158fe",
+                "lastModifiedDateTime": "2024-01-23T08:23:50.686Z",
+                "schedulingGroupId": "TAG_7fe180ba-20ad-46b4-a1eb-6283c04ce281",
+                "userId": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-01-29T23:00:00Z",
+                    "endDateTime": "2024-01-30T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"74007f06-0000-0400-0000-65af77990000\"",
+                "id": "SHFT_1f93f2f7-91f8-470a-a7fe-b7615bdea69f",
+                "lastModifiedDateTime": "2024-01-23T08:23:53.456Z",
+                "schedulingGroupId": "TAG_7fe180ba-20ad-46b4-a1eb-6283c04ce281",
+                "userId": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"74008206-0000-0400-0000-65af779a0000\"",
+                "id": "SHFT_d2ba6a30-255c-4f08-9128-c47ec7fc3477",
+                "lastModifiedDateTime": "2024-01-23T08:23:54.771Z",
+                "schedulingGroupId": "TAG_7fe180ba-20ad-46b4-a1eb-6283c04ce281",
+                "userId": "0d0cc72b-0590-4335-8301-4ed5620bb81b",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-01-31T23:00:00Z",
+                    "endDateTime": "2024-02-01T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"74008b06-0000-0400-0000-65af779c0000\"",
+                "id": "SHFT_637360b4-6617-474b-8593-38a7f391becd",
+                "lastModifiedDateTime": "2024-01-23T08:23:56.058Z",
+                "schedulingGroupId": "TAG_7fe180ba-20ad-46b4-a1eb-6283c04ce281",
+                "userId": "0d0cc72b-0590-4335-8301-4ed5620bb81b",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-02-01T23:00:00Z",
+                    "endDateTime": "2024-02-02T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"74009006-0000-0400-0000-65af779d0000\"",
+                "id": "SHFT_f842161d-7a74-46bb-a8c8-c9f9173c269a",
+                "lastModifiedDateTime": "2024-01-23T08:23:57.333Z",
+                "schedulingGroupId": "TAG_7fe180ba-20ad-46b4-a1eb-6283c04ce281",
+                "userId": "0d0cc72b-0590-4335-8301-4ed5620bb81b",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-02-02T23:00:00Z",
+                    "endDateTime": "2024-02-03T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"7400ae06-0000-0400-0000-65af77a20000\"",
+                "id": "SHFT_1122308a-198f-4e9c-8df4-5e013e33d11b",
+                "lastModifiedDateTime": "2024-01-23T08:24:02.119Z",
+                "schedulingGroupId": "TAG_7fe180ba-20ad-46b4-a1eb-6283c04ce281",
+                "userId": "bc8c6bb9-361b-41ac-ba43-6ec14abc840c",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-02-03T23:00:00Z",
+                    "endDateTime": "2024-02-04T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            },
+            {
+                "@odata.etag": "\"7e008dea-0000-0400-0000-65b12cb50000\"",
+                "id": "SHFT_d20aecd4-3ea9-4430-b812-ee8af3557f7f",
+                "createdDateTime": "2024-01-24T15:28:50.137Z",
+                "lastModifiedDateTime": "2024-01-24T15:28:53.501Z",
+                "schedulingGroupId": "TAG_44556f42-4d28-43b2-ab3e-cd6345da9dda",
+                "userId": "e369485f-3249-446f-bb15-a1d75b5efd9a",
+                "lastModifiedBy": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "id": "f599adcd-b78c-425b-b398-40ab0e0b48d1",
+                        "displayName": "Alicia Pereira",
+                        "userIdentityType": "aadUser",
+                        "tenantId": null
+                    }
+                },
+                "sharedShift": {
+                    "startDateTime": "2024-01-30T23:00:00Z",
+                    "endDateTime": "2024-01-31T23:00:00Z",
+                    "theme": "blue",
+                    "activities": []
+                }
+            }
+        ]
+    }
+}
